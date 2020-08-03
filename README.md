@@ -1,4 +1,4 @@
-### Hi there, I'm Jason - aka [K0p1-Git][website] 👋
+### Hi there, I'm Jason - aka [K0p1-Git][website] <img src="https://user-images.githubusercontent.com/55252776/89190633-52f82a80-d5d4-11ea-9108-dcd620e4594a.gif" width="30px">
 
 - 🔭 I’m currently working on my Final Year Project
 - 🌱 I’m currently pursuing a Diploma in Infocomm Securirty Management in Singapore Polytechnic
