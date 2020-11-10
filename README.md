@@ -4,7 +4,7 @@
 - 🌱 Pursuing a Diploma in Infocomm Securirty Management in Singapore Polytechnic
 - 😎 I’m looking to collaborate (Hit me up with interesting projects!)
 - 💬 Ask me about anything, don't be shy :) 
-- ⚡ Fun fact: I really enjoy the [SCP Universe](http://www.scpwiki.com/) and messing around with the RraspberryPi
+- ⚡ Fun fact: I really enjoy the [SCP Universe](http://www.scpwiki.com/) and messing around with the Raspberry Pi. 
 
 ### Connect with me:
 [<img align="left" alt="K0p1-Git" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
