@@ -30,6 +30,6 @@
 ---
 <img align="left" alt="K0p1-Git's Github Stats" src="https://github-readme-stats.vercel.app/api?username=K0p1-Git&show_icons=true&hide_border=true" />
 
-[website]: https://github.com/K0p1-Git
+[website]: https://k0p1.me
 [twitter]: https://twitter.com/K0p1_
 [linkedin]: https://www.linkedin.com/in/jasonkkf
