@@ -1,7 +1,7 @@
 ### Hi there, I'm Jason - aka [K0p1-Git][website] <img src="https://user-images.githubusercontent.com/55252776/89190633-52f82a80-d5d4-11ea-9108-dcd620e4594a.gif" width="30px">
 
-- 🔭 I’m currently on Internship with CSIT!
-- 🌱 Pursuing a Diploma in Infocomm Securirty Management in Singapore Polytechnic
+- 🔭 Awaiting National Service.
+- 🌱 Singapore Polytechnic, Diploma in Infocomm Securirty Management Graduate!
 - 😎 I’m looking to collaborate (Hit me up with interesting projects!)
 - 💬 Ask me about anything, don't be shy :) 
 - ⚡ Fun fact: I really enjoy the [SCP Universe](http://www.scpwiki.com/) and messing around with the Raspberry Pi. 
