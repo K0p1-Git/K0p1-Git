@@ -9,4 +9,10 @@
 - 💬 Contact me on [Linkedin](https://www.linkedin.com/in/jasonkkf/)
 
 ---
-<p align="left"><img align="left" alt="K0p1-Git's Github Stats" src="https://github-readme-stats.vercel.app/api?username=K0p1-Git&show_icons=true&hide_border=false" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k0p1-git&show_icons=true&locale=en&layout=compact" alt="k0p1-git" /></p> 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="left" alt="K0p1-Git's Github Stats" src="https://github-readme-stats.vercel.app/api?username=K0p1-Git&show_icons=true&hide_border=false" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k0p1-git&show_icons=true&locale=en&layout=compact" alt="k0p1-git" />
+</a>
