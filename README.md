@@ -1,35 +1,13 @@
-### Hi there, I'm Jason - aka [K0p1-Git][website] <img src="https://user-images.githubusercontent.com/55252776/89190633-52f82a80-d5d4-11ea-9108-dcd620e4594a.gif" width="30px">
+# Hi there, I'm Jason <img src="https://user-images.githubusercontent.com/55252776/89190633-52f82a80-d5d4-11ea-9108-dcd620e4594a.gif" width="30px">
+<p align="left"> <img src="https://img.shields.io/badge/build-passing-success" alt="k0p1-git" /> <img src="https://komarev.com/ghpvc/?username=k0p1-git&label=Profile%20views&color=0e75b6&style=flat" alt="k0p1-git" /> <img alt="Rating" src="https://img.shields.io/badge/Rating-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-blue"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/K0P1_"></p> 
 
-- 🔭 Awaiting National Service.
-- 🌱 Singapore Polytechnic, Diploma in Infocomm Securirty Management Graduate!
-- 😎 I’m looking to collaborate (Hit me up with interesting projects!)
-- 💬 Ask me about anything, don't be shy :) 
-- ⚡ Fun fact: I really enjoy the [SCP Universe](http://www.scpwiki.com/) and messing around with the Raspberry Pi. 
+<img src="https://user-images.githubusercontent.com/55252776/123514802-433f7400-d6c7-11eb-9b22-9b122d6ec694.png" width="100%">
 
-### Connect with me:
-[<img align="left" alt="K0p1-Git" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="K0p1-Git | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="K0p1-Git | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Vim" width="26px" src="https://user-images.githubusercontent.com/55252776/89188701-9735fb80-d5d1-11ea-8b60-bb622c497427.png" />
-<img align="left" alt="Python 3" width="26px" src="https://user-images.githubusercontent.com/55252776/89188908-dd8b5a80-d5d1-11ea-8bde-00dd8db90a97.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
+- 👨‍🎓 Prospective Information Security Computing Undergraduate [@NUSingapore](https://www.comp.nus.edu.sg/programmes/ug/isc/)
+- 💻 Part-time developer & CTF Player @K0P1
+- 🏴 Into Web & Network pentesting | InfoSec | Vulnerability Research
+- 💬 Contact me on [Linkedin](https://www.linkedin.com/in/jasonkkf/)
 
 ---
-<img align="left" alt="K0p1-Git's Github Stats" src="https://github-readme-stats.vercel.app/api?username=K0p1-Git&show_icons=true&hide_border=true" />
-
-[website]: https://k0p1.me
-[twitter]: https://twitter.com/K0p1_
-[linkedin]: https://www.linkedin.com/in/jasonkkf
+<p><img align="left" alt="K0p1-Git's Github Stats" src="https://github-readme-stats.vercel.app/api?username=K0p1-Git&show_icons=true&hide_border=false" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k0p1-git&show_icons=true&locale=en&layout=compact" alt="k0p1-git" /></p>
