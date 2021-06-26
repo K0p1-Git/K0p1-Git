@@ -7,12 +7,10 @@
 - 💻 Part-time developer & CTF Player @K0P1
 - 🏴 Into Web & Network pentesting | InfoSec | Vulnerability Research
 - 💬 Contact me on [Linkedin](https://www.linkedin.com/in/jasonkkf/)
-
----
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="left" alt="K0p1-Git's Github Stats" src="https://github-readme-stats.vercel.app/api?username=K0p1-Git&show_icons=true&hide_border=false" />
+#
+<a href="https://github.com/K0p1-Git">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0p1-git&layout=compact">
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k0p1-git&show_icons=true&locale=en&layout=compact" alt="k0p1-git" />
+<a href="https://github.com/K0p1-Git">
+ <img src="https://github-readme-stats.vercel.app/api?username=K0p1-Git&show_icons=true&hide_border=false">
 </a>
