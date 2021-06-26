@@ -9,8 +9,8 @@
 - 💬 Contact me on [Linkedin](https://www.linkedin.com/in/jasonkkf/)
 #
 <a href="https://github.com/K0p1-Git">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0p1-git&layout=compact">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0p1-git&layout=compact">
 </a>
 <a href="https://github.com/K0p1-Git">
- <img src="https://github-readme-stats.vercel.app/api?username=K0p1-Git&show_icons=true&hide_border=false">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=K0p1-Git&show_icons=true&hide_border=false">
 </a>
