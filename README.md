@@ -12,7 +12,7 @@
 
 #
 <a href="https://github.com/K0p1-Git">
- <img style="width:45%;" align="center" src="https://github-readme-stats.vercel.app/api?username=K0p1-Git&show_icons=true&hide_border=true">
+ <img style="width:50%;" align="center" src="https://github-readme-stats.vercel.app/api?username=K0p1-Git&show_icons=true&hide_border=true">
 </a>
 <a href="https://github.com/K0p1-Git">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0p1-git&layout=compact&hide_border=true">
