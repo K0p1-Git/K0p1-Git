@@ -7,6 +7,8 @@
 - 💻 Part-time developer & CTF Player @K0P1
 - 🏴 Into Web & Network pentesting | InfoSec | Vulnerability Research
 - 💬 Contact me on [Linkedin](https://www.linkedin.com/in/jasonkkf/)
+
+[![Donate Via Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/Jasonkkf)
 #
 <a href="https://github.com/K0p1-Git">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0p1-git&layout=compact">
