@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/55252776/123514802-433f7400-d6c7-11eb-9b22-9b122d6ec694.png" width="100%">
 
-- 👨‍🎓 Prospective Information Security Computing Undergraduate [@NUSingapore](https://www.comp.nus.edu.sg/programmes/ug/isc/)
+- 👨‍🎓 Information Security Computing Undergraduate [@NUSingapore](https://www.comp.nus.edu.sg/programmes/ug/isc/)
 - 💻 Part-time developer & CTF Player @K0P1
 - 🏴 Into Web & Network pentesting | InfoSec | Vulnerability Research
 - 💬 Contact me on [Linkedin](https://www.linkedin.com/in/jasonkkf/)
